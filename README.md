@@ -5,5 +5,9 @@ Operating modes are: 1 Approaching, 2 Connecting, 3 Operation, 4 Disconnecting
 Main systems (components) are: 1 Propulsion system, 2 Reference system, 3 Computer system, 4 Power system, 5 Human factors, 6 Environmental/External factors
 Consequences are: 1 Drift off, 2 Drive off, 3 LOP, 4 Potential incidents.
 
+References:
+Parhizkar, T., Hogenboom, S., Vinnem, J. E., & Utne, I. B. (2020). Data driven approach to risk management and decision support for dynamic positioning systems. Reliability Engineering & System Safety, 201, 106964.
+Parhizkar, T., Utne, I. B., & Vinnem, J. E. (2021). Online Risk Assessment of Complex Automated Systems – Principles, Modelling and Applications Book. Publishing by Springer. 
+
 
 
