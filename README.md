@@ -7,7 +7,7 @@ Mode/Status: 1 Approaching, 2 Connecting, 3 Operating, 4 Disconnecting.
 
 Main systems (components) are: 1 Propulsion system, 2 Reference system, 3 Computer system, 4 Power system, 5 Human factors, 6 Environmental/External factors.
 
-Consequences are: 1 Drift off, 2 Drive off, 3 LOP, 4 Potential incidents.
+Consequences are: 1 Drift off, 2 Drive off, 3 Loss of Position (LOP), 4 Potential incidents.
 
 
 
